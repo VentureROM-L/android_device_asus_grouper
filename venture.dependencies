@@ -1,2 +1,15 @@
 [
+    {
+        "remote": "venture",
+        "repository": "android_kernel_asus_grouper",
+        "target_path": "kernel/asus/grouper",
+        "revision": "lollipop"
+    },
+    {
+        "remote": "venture",
+        "repository": "android_vendor_asus",
+        "target_path": "vendor/asus",
+        "revision": "lollipop"
+    }
+][
 ]

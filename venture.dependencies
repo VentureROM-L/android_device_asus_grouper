@@ -1,15 +1,12 @@
 [
     {
-        "remote": "venture",
-        "repository": "android_kernel_asus_grouper",
+        "repository": "VentureROM-L/android_kernel_asus_grouper",
         "target_path": "kernel/asus/grouper",
-        "revision": "lollipop"
+        "branch": "lollipop"
     },
     {
-        "remote": "venture",
-        "repository": "android_vendor_asus",
+        "repository": "VentureROM-L/android_vendor_asus",
         "target_path": "vendor/asus",
-        "revision": "lollipop"
+        "branch": "lollipop"
     }
-][
 ]
